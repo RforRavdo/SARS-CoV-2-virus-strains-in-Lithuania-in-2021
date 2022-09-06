@@ -1,5 +1,5 @@
 # SARS-CoV-2-viruso-atmainos-Lietuvoje
-SARS-CoV-2 viruso atmainų epidemiologiniai dėsningumai Lietuvoje 2021 m.
+SARS-CoV-2 viruso susirūpinimą keliančių atmainų epidemiologiniai dėsningumai Lietuvoje 2021 m.
 
 Trečius metus besitęsianti COVID-19 ligos pandemija vis dar išlieka aktualia visuomenės sveikatos problema visame pasaulyje. 
 Ligą sukeliantis SARS-CoV-2 virusas nuolat keičiasi ir siekiant taikyti efektyvias prevencines priemones bei nuspėti kaip ligos 
