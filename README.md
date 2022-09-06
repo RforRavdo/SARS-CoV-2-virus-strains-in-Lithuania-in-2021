@@ -22,4 +22,4 @@ Duomenų šaltinis Lietuvos statistikos departamentas https://open-data-ls-osp-s
 3. gyventojai2021.xls - duomenys apie gyventojų skaičių Lietuvoje 2021 m.
 Duomenų šaltinisLietuvos statistikos departamentas https://osp.stat.gov.lt/gyventojai1
 
-4. sars-cov-2 atmainos.ipynb - Uždavinių įvykdymas Jupyter notebook
+4. sars-cov-2 atmainos.ipynb - uždavinių įvykdymas Jupyter notebook
