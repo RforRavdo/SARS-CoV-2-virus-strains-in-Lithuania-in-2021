@@ -12,7 +12,7 @@ epidemiologiniai dėsningumai galėtų keistis ateityje, svarbu išnagrinėti jo
 2. Palyginti sergamumą COVID-19 liga pagal lytį ir amžių 2021 m. Lietuvoje laikotarpiais, kai šalyje dominavo  susirūpinimą keliančios
 SARS-CoV-2 viruso atmainos.
 
-#Failai:
+# Failai:
 1. data.csv - duomenys apie sekoskaitos rezultatus ES šalyse. 
 Duomenu saltinis Europos ligų kontrolės ir prevencijos centras https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
 
