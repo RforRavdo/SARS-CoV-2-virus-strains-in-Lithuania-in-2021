@@ -1,25 +1,26 @@
-# SARS-CoV-2-viruso-atmainos-Lietuvoje
-SARS-CoV-2 viruso susirūpinimą keliančių atmainų epidemiologiniai dėsningumai Lietuvoje 2021 m.
+# SARS-CoV-2 variants
 
-Trečius metus besitęsianti COVID-19 ligos pandemija vis dar išlieka aktualia visuomenės sveikatos problema visame pasaulyje. 
-Ligą sukeliantis SARS-CoV-2 virusas nuolat keičiasi ir siekiant taikyti efektyvias prevencines priemones bei nuspėti kaip ligos 
-epidemiologiniai dėsningumai galėtų keistis ateityje, svarbu išnagrinėti jo atmainų epidemiologinius dėsningumus.
+Epidemiological patterns of COVID-19 disease (coronavirus infection) caused by SARS-CoV-2 virus strains in Lithuania in 2021
 
-# Darbo uzdaviniai:
+The COVID-19 pandemic remains a pressing public health issue worldwide. SARS-CoV-2 virus is constantly evolving and it is important to describe the epidemiological patterns of its strains in order to take effective preventive measures and to predict how the epidemiological patterns of the disease may change in the future.
 
-1. Nustatyti SARS-CoV-2 viruso susirūpinimą keliančių atmainų (Alpha, Delta ir Omicron) paplitimo pokyčius Lietuvoje 2021 m.
+# Project tasks:
 
-2. Palyginti sergamumą COVID-19 liga pagal lytį ir amžių 2021 m. Lietuvoje laikotarpiais, kai šalyje dominavo  susirūpinimą keliančios
-SARS-CoV-2 viruso atmainos.
+1. To determine changes in the prevalence of SARS-CoV-2 virus variants of concern (Alpha, Delta and Omicron) in Lithuania in 2021.
 
-# Failai:
-1. data.csv - duomenys apie sekoskaitos rezultatus ES šalyse. 
-Duomenu saltinis Europos ligų kontrolės ir prevencijos centras https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
+2. To compare the incidence of COVID-19 disease by gender and age in Lithuania during the periods of dominance of SARS-CoV-2 virus variants of concern in 2021.
 
-2. atvejai.csv - duomenys apie nustatytus COVID-19 ligos atvejus Lietuvoje
-Duomenų šaltinis Lietuvos statistikos departamentas https://open-data-ls-osp-sdg.hub.arcgis.com/datasets/ba35de03e111430f88a86f7d1f351de6_0/explore
+# Files:
+1. data.csv - information about the volume of COVID-19 sequencing, the number and percentage distribution of variants of concern (VOC) by week and country. 
 
-3. gyventojai2021.xls - duomenys apie gyventojų skaičių Lietuvoje 2021 m.
-Duomenų šaltinisLietuvos statistikos departamentas https://osp.stat.gov.lt/gyventojai1
+Data source European Centre for Disease Prevention and Control (ECDC) https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
 
-4. sars-cov-2 atmainos.ipynb - uždavinių įvykdymas Jupyter notebook
+2. atvejai.csv - data on identified cases of the COVID-19 in Lithuania
+
+Data source Lithuanian Statistics Department https://open-data-ls-osp-sdg.hub.arcgis.com/datasets/ba35de03e111430f88a86f7d1f351de6_0/explore
+
+3. gyventojai2021.xls - data on the population in Lithuania in 2021
+
+Data source Lithuanian Statistics Department https://osp.stat.gov.lt/gyventojai1
+
+4. sars-cov-2 variants.ipynb 
